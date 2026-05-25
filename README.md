@@ -148,9 +148,9 @@ Analyzed shipping methods to identify the most frequently used ship mode.
 
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+![Sales MIS Dashboard](Dashboard.png)
 
 ---
 
