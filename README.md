@@ -150,7 +150,7 @@ Analyzed shipping methods to identify the most frequently used ship mode.
 
 ## Dashboard Preview
 
-![Sales MIS Dashboard](Dashboard.png)
+![Sales MIS Dashboard](dashboard.png)
 
 ---
 
@@ -159,10 +159,10 @@ Analyzed shipping methods to identify the most frequently used ship mode.
 ```text
 Sales-MIS-Dashboard/
 │
-├── Sales MIS Dashboard.xlsx
-├── Sales MIS Report.pdf
-├── Dashboard Screenshot.png
-└── README.md
+├── README.md
+├── dashboard.png
+├── sales-mis-dashboard.xlsx
+└── sales-mis-report.pdf
 ```
 
 ---
